@@ -1,7 +1,4 @@
 'use client';
-
-import { use, useState } from "react";
-import Image from "next/image";
 import Link from "next/link";
 import './page.css';
 
